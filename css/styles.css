@@ -37,7 +37,16 @@ header h2 {
 }
 
 a {
+	color: #5D9EB8;
+}
+
+a:hover {
 	color: #16A4DB;
+}
+
+em {
+	/*	*/
+	font-weight: 600;
 }
 
 .case {
@@ -102,7 +111,7 @@ a {
 
 .case li {
 	font-size: 14px;
-	color: #585858;
+	color: #96989C;
 	margin: 8px 0px 0px 0px;
 	font-weight: 500;
 }
