@@ -5,16 +5,16 @@ body {
 }
 
 header {
-	border-top:solid 12px #FFF;
+	border-top:solid 12px #082835;
 	background:#F5F5F5;
-	padding-bottom: 40px;
-	color:#444751;
+	padding-bottom: 10px;
+	color:#082835;
 }
 
 header h1 {
 	font-size: 64px;
 	font-weight: 600;
-	letter-spacing: -0.07em;
+	letter-spacing: -0.06em;
 	margin-top: 40px;
 	line-height: 72px;
 }
@@ -22,8 +22,20 @@ header h1 {
 header h2 {
 	font-size: 64px;
 	font-weight: 600;
-	letter-spacing: -0.05em;
-	margin-top: 20px;
+	letter-spacing: -0.06em;
+	color:#96989C;
+	margin-bottom: 14px;
+}
+
+header p {
+	font-size: 14px;
+	font-weight: 500;
+	color:#96989C;
+}
+header a {
+	
+	color:#96989C;
+	text-decoration: none;
 }
 
 #page{
@@ -51,7 +63,7 @@ em {
 
 .case {
 	margin-bottom: 40px;
-	border-top:solid 8px #F5F5F5;
+	border-top:solid 30px #F5F5F5;
 	/*padding-top: 30px;*/
 }
 
